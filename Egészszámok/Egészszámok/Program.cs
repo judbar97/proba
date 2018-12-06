@@ -10,7 +10,8 @@ namespace Egészszámok
     {
         static void Main(string[] args)
         {
-
+            int a;
+            int b;
 
         }
     }
